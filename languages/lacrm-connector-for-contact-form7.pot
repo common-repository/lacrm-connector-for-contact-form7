@@ -1,0 +1,212 @@
+# Copyright (C) 2016 CF7 LACRM Connector
+# This file is distributed under the same license as the CF7 LACRM Connector package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 LACRM Connector 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lacrm-connector-"
+"for-contact-form7\n"
+"POT-Creation-Date: 2016-11-20 12:05:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-lacrm-service.php:40 includes/pages/lacrm-config.php:10
+#: includes/pages/lacrm-config.php:12 lacrm-connector.php:152
+msgid "LACRM"
+msgstr ""
+
+#: includes/class-lacrm-utility.php:75
+msgid "There's something wrong with your code..."
+msgstr ""
+
+#: includes/pages/lacrm-config.php:7
+msgid "Integration with Less Annoying CRM"
+msgstr ""
+
+#: includes/pages/lacrm-config.php:18
+msgid "User Code "
+msgstr ""
+
+#: includes/pages/lacrm-config.php:21
+msgid "API Token"
+msgstr ""
+
+#: includes/pages/lacrm-config.php:22
+msgid "Currently Active"
+msgstr ""
+
+#: includes/pages/lacrm-config.php:24
+msgid "Verify"
+msgstr ""
+
+#: includes/pages/lacrm.php:23
+msgid "Lacrm Settings"
+msgstr ""
+
+#: includes/pages/lacrm.php:25
+msgid ""
+"LACRM Integation is not valid . Please configure with correct information"
+msgstr ""
+
+#: includes/pages/lacrm.php:28
+msgid "In the following fields, you can use these mail tags:"
+msgstr ""
+
+#: includes/pages/lacrm.php:37
+msgid "Basic Fields"
+msgstr ""
+
+#: includes/pages/lacrm.php:40
+msgid "Name"
+msgstr ""
+
+#: includes/pages/lacrm.php:42
+msgid "your-name"
+msgstr ""
+
+#: includes/pages/lacrm.php:52
+msgid "Email"
+msgstr ""
+
+#: includes/pages/lacrm.php:54
+msgid "your-email"
+msgstr ""
+
+#: includes/pages/lacrm.php:64
+msgid "Phone"
+msgstr ""
+
+#: includes/pages/lacrm.php:66
+msgid "your-phone"
+msgstr ""
+
+#: includes/pages/lacrm.php:76
+msgid "Company"
+msgstr ""
+
+#: includes/pages/lacrm.php:78
+msgid "your-company"
+msgstr ""
+
+#: includes/pages/lacrm.php:93
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/pages/lacrm.php:97 includes/pages/lacrm.php:103
+#: includes/pages/lacrm.php:115
+msgid "LACRM Custom Contact Field Name"
+msgstr ""
+
+#: includes/pages/lacrm.php:98 includes/pages/lacrm.php:104
+#: includes/pages/lacrm.php:118 includes/pages/lacrm.php:201
+#: includes/pages/lacrm.php:207 includes/pages/lacrm.php:221
+msgid "CF7 Mail Tag"
+msgstr ""
+
+#: includes/pages/lacrm.php:130
+msgid "Add custom field"
+msgstr ""
+
+#: includes/pages/lacrm.php:138
+msgid "Pipeline"
+msgstr ""
+
+#: includes/pages/lacrm.php:141
+msgid "Pipeline ID"
+msgstr ""
+
+#: includes/pages/lacrm.php:152
+msgid "Status ID"
+msgstr ""
+
+#: includes/pages/lacrm.php:163
+msgid "Priority"
+msgstr ""
+
+#: includes/pages/lacrm.php:179
+msgid "Notes"
+msgstr ""
+
+#: includes/pages/lacrm.php:196
+msgid "Custom Pipeline Fields"
+msgstr ""
+
+#: includes/pages/lacrm.php:200 includes/pages/lacrm.php:206
+#: includes/pages/lacrm.php:218
+msgid "LACRM Field Id"
+msgstr ""
+
+#: includes/pages/lacrm.php:233
+msgid "Add Custom Fields"
+msgstr ""
+
+#: includes/pages/lacrm.php:241
+msgid "Tasks"
+msgstr ""
+
+#: includes/pages/lacrm.php:241
+msgid " In LACRM, go to"
+msgstr ""
+
+#: includes/pages/lacrm.php:241
+msgid "Manage Users"
+msgstr ""
+
+#: includes/pages/lacrm.php:241
+msgid ""
+"page and click on \"Edit this user\" next to the targeted user name. Grab "
+"the number after \"UserId=\" from the URL of the page that opens."
+msgstr ""
+
+#: includes/pages/lacrm.php:243 includes/pages/lacrm.php:252
+#: includes/pages/lacrm.php:265
+msgid "LACRM user ID"
+msgstr ""
+
+#: includes/pages/lacrm.php:244
+msgid "Due"
+msgstr ""
+
+#: includes/pages/lacrm.php:244
+msgid "In how many days from today is this task due?"
+msgstr ""
+
+#: includes/pages/lacrm.php:247
+msgid "Task Description"
+msgstr ""
+
+#: includes/pages/lacrm.php:253 includes/pages/lacrm.php:268
+msgid "Due (today + X days)"
+msgstr ""
+
+#: includes/pages/lacrm.php:254 includes/pages/lacrm.php:271
+msgid "Task description"
+msgstr ""
+
+#: includes/pages/lacrm.php:283
+msgid "Add Task"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CF7 LACRM Connector"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/lacrm-connector-for-contact-form7/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Send your Contact Form 7 data directly to your Less Annoying CRM account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OC2PS, WesternDeal, julius1986"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/sooskriszta"
+msgstr ""

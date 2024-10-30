@@ -1,0 +1,191 @@
+.loading{
+   background-image: url( "../img/ajax-loader.gif");
+   background-position: 50% 80%;
+   background-repeat: no-repeat;
+   width:10px;
+}
+.lacrm-form span.mailtag {
+   display: inline-block;
+   margin: 0 0 0 4px;
+   padding: 1px 2px;
+   cursor: pointer;
+   color: #000;
+   font-family: Consolas, Monaco, monospace;
+   direction: ltr;
+   unicode-bidi: embed;
+
+}
+.lacrm-form h1 {
+   padding-bottom: 8px;
+}
+
+.user-code-text,
+.token-text {
+   width:425px;
+}
+.user-code,
+.token,
+.field-label
+.pipeline-label {
+   font-size: 14px;
+   font-weight: bold;
+   margin-right: 20px;
+}
+
+.basic-field-header, 
+.custom-fields-header,
+.pipeline-header,
+.notes-header,
+.custom-pipeline-header,
+.tasks-header {
+   font-size: 16px;
+   font-weight: bold;
+   padding-top: 5px;
+}
+.basic-fields-attributes,
+.pipeline-attributes {
+   margin-left: 2px;
+   width: 100%;
+}
+.field-label,
+.pipeline-label { 
+   margin-right: 10px;
+   float: left;
+   width:12%;
+   font-size: 14px;
+}
+.custom-fields label {
+   font-size:14px;
+   margin-left: 2px;
+   float: left;
+   width: 36.5%;
+}
+.custom-pipeline-fields label {
+   font-size: 14px;
+   margin-left: 2px;
+   float: left;
+   width: 36.5%;
+}
+.task-title label {
+   font-size: 14px;
+   margin-left: 2px;
+   float: left;
+   width: 26.5%;
+}
+.help-icon {
+   width: 18px;
+   vertical-align: middle;
+}
+.help-link {
+   font-size: 12px;
+   margin-left: 10px;
+   text-decoration: none;
+}
+.field-name,
+.field-value, 
+#custom-pipeline-id, 
+#pipeline-value {
+   width: 36%;
+}
+#task-assign-to,
+#task-due-date,
+#task-description {
+   width: 26%
+}
+.lacrm-wrapper-hidden, 
+.lacrm-label-hidden {
+   display: none;
+}
+.remove-cutom-field {
+   background-color: #f2dede;
+}
+.icon-remove {
+   margin-left: 5px;
+   cursor: pointer;
+}
+.invalid-message {
+   font-weight: bold;
+   color: red;
+}
+.valid-message {
+   font-weight: bold;
+   color: green;
+}
+.save-data {
+   margin-top: 50px;
+}
+.edit-info {
+   color:green;
+}
+.edit-form {
+   background: #0085ba;
+   border-color: #0073aa #006799 #006799;
+   -webkit-box-shadow: 0 1px 0 #006799;
+   box-shadow: 0 1px 0 #006799;
+   color: #fff;
+   text-decoration: none;
+   text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+   display: inline-block;
+   text-decoration: none;
+   font-size: 13px;
+   line-height: 26px;
+   height: 28px;
+   margin: 0;
+   padding: 0 10px 1px;
+   cursor: pointer;
+   border-width: 1px;
+   border-style: solid;
+   -webkit-appearance: none;
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+   white-space: nowrap;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+.edit-form:hover {
+   background: #008ec2;
+   border-color: #006799;
+   color: #fff;
+}
+.integartion-notification {
+   color: red;
+}
+.get-user-id {
+   display: inline;
+   position: relative;
+   color: #0073aa;
+
+}
+.get-user-id span {
+   display:none;
+   position: absolute;
+   left:1.5em;
+   border-radius: 5px 5px; 
+   -moz-border-radius: 5px; 
+   -webkit-border-radius: 5px;
+   font-family: Calibri, Tahoma, Geneva, sans-serif;
+   margin-left: 0;
+   z-index: 999;
+
+}
+.get-user-id:hover {
+   color: #00a0d2;
+}
+.get-user-id:hover span {
+   display:inline-block;
+   width: 300px;
+   margin-top: 20px;
+   z-index: 1001;
+}
+.hover-data { 
+   padding: 5px;
+   background:  #333;
+   background: rgba(0,0,0,.8);
+   color: #fff;
+}
+.user-link {
+   color: #00a0d2;
+   text-decoration: none;
+}
+
